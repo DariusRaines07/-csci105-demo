@@ -1,1 +1,2 @@
-Make a commit
+1. Install Git
+3. Make a commit
